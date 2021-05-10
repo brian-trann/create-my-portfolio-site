@@ -173,7 +173,7 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
 }
 ```
 ### Deploying
-There are many ways to deploy a React App. I used [Surge](https://surge.sh/)
+I used [Surge](https://surge.sh/), but there are many ways to deploy React apps. To name a few options: Vercel, AWS Amplify, Netlify, Firebase.
 
 ### Tests
 I have only implemented basic smoke and snapshot tests in order to make sure the components render.
