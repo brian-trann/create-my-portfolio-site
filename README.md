@@ -6,6 +6,9 @@ Fork this project to easily create a portfolio site using [Create React App](htt
 
 This app uses the `useContext` hook to populate the app. Fill out your information in the `/context/myInfo.json` file in order to fill the site with your information.
 
+## Preview
+![preview](https://github.com/brian-trann/create-my-portfolio-site/blob/master/assets/create-my-portfolio-site.png?raw=true)
+
 ### Getting started
 
 1. Fork or clone this project. 
