@@ -17,6 +17,9 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
 4. *Optional and recommended*
    * Change Title in `public/index.html`
    * Change `public/favicon.ico`, `public/logo192.png`, `public/logo512.png`
+5. Build and deploy!
+   *  [Create React App Docs](https://reactjs.org/docs/create-a-new-react-app.html)
+   *  `npm run build`
 
 ### myInfo 
 * `navigation`
