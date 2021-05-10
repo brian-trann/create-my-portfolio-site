@@ -1,0 +1,237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root makeStyles-container-8 MuiContainer-maxWidthMd"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation2 MuiPaper-rounded"
+    >
+      <div
+        class="makeStyles-category-9"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+        >
+          About
+        </h4>
+        <div
+          class="makeStyles-categoryBody-10"
+        >
+          <h6
+            class="MuiTypography-root makeStyles-aboutStatement-14 MuiTypography-subtitle1"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+          </h6>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-aboutImage-11 MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-media-12"
+            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
+            title=""
+          />
+        </div>
+        <span
+          class="MuiTypography-root makeStyles-mediaDescription-13 MuiTypography-caption MuiTypography-colorTextSecondary MuiTypography-alignCenter MuiTypography-displayBlock"
+        />
+      </div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthSm"
+      >
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div
+        class="makeStyles-category-9"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+        >
+          Skills
+        </h4>
+        <div
+          class="makeStyles-categoryBody-10"
+        >
+          <div
+            class="0"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              Languages
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              JavaScript, HTML, CSS, Python, SQL
+            </p>
+          </div>
+          <div
+            class="1"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              Libraries and Frameworks
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              React, Redux, Express, Flask
+            </p>
+          </div>
+          <div
+            class="2"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              Other
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1"
+            >
+              other0, other1
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthSm"
+      >
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div
+        class="makeStyles-category-9"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+        >
+          Work Experience
+        </h4>
+        <div
+          class="makeStyles-categoryBody-10"
+        >
+          <div>
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              company0
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              position0
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Date 2020 - Date 2021
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+          <div>
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              company2
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              position1
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Date 2019 - Date 2020
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthSm"
+      >
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div
+        class="makeStyles-category-9"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+        >
+          Education
+        </h4>
+        <div
+          class="makeStyles-categoryBody-10"
+        >
+          <div>
+            <h6
+              class="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+            >
+              education0
+            </h6>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              curriculum0
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Date 2020 - Date 2021
+            </p>
+            <p
+              class="MuiTypography-root MuiTypography-body1 MuiTypography-gutterBottom"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthSm"
+      >
+        <hr
+          class="MuiDivider-root"
+        />
+      </div>
+      <div
+        class="makeStyles-category-9"
+      >
+        <h4
+          class="MuiTypography-root MuiTypography-h4"
+        >
+          Certifications
+        </h4>
+        <div
+          class="makeStyles-categoryBody-10"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1"
+          >
+            certification0, certification1
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

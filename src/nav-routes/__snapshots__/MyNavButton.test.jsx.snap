@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <a
+    aria-current="page"
+    aria-disabled="false"
+    class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit active"
+    href="/"
+    role="button"
+    tabindex="0"
+    target=""
+  >
+    <span
+      class="MuiButton-label"
+    />
+    <span
+      class="MuiTouchRipple-root"
+    />
+  </a>
+</DocumentFragment>
+`;

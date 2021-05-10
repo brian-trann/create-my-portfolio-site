@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    class="makeStyles-footer-2"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-alignCenter"
+    >
+      John Doe 2021
+    </p>
+  </footer>
+</DocumentFragment>
+`;

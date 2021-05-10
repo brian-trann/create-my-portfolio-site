@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+import MyInfoContext from './context/MyInfoContext';
+import myInfo from './context/myInfo.json';
+import { BrowserRouter } from 'react-router-dom';
+import NavBar from './nav-routes/NavBar';
+import Footer from './components/Footer';
+import Routes from './nav-routes/Routes';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<MyInfoContext.Provider value={myInfo}>
+			<BrowserRouter>
+				<NavBar />
+				<Routes />
+				<Footer />
+			</BrowserRouter>
+		</MyInfoContext.Provider>
+	);
 }
 
 export default App;

@@ -1,0 +1,92 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <header
+    class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary MuiPaper-elevation4"
+  >
+    <div
+      class="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <h6
+        class="MuiTypography-root makeStyles-title-5 MuiTypography-h6"
+      >
+        John Doe
+      </h6>
+      <div
+        class="makeStyles-navButtons-6"
+      >
+        <a
+          aria-current="page"
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit active"
+          href="/"
+          role="button"
+          tabindex="0"
+          target=""
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Home
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </a>
+        <a
+          aria-disabled="false"
+          class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit"
+          href="/about"
+          role="button"
+          tabindex="0"
+          target=""
+        >
+          <span
+            class="MuiButton-label"
+          >
+            About
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </a>
+        <a
+          aria-disabled="false"
+          class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit MuiTypography-colorPrimary"
+          href="https://github.com/"
+          role="button"
+          tabindex="0"
+          target="_blank"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Github
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </a>
+        <a
+          aria-disabled="false"
+          class="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-colorInherit MuiTypography-colorPrimary"
+          href="https://www.linkedin.com//"
+          role="button"
+          tabindex="0"
+          target="_blank"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            LinkedIn
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </a>
+      </div>
+    </div>
+  </header>
+</DocumentFragment>
+`;

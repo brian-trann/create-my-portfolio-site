@@ -1,8 +1,11 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
+import myInfo from './context/myInfo.json';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+const { work: { categoryName } } = myInfo;
+const reg = new RegExp(categoryName, 'i');
+test('renders myInfo.work.categoryName value', () => {
+	render(<App />);
+	const linkElement = screen.getByText(reg);
+	expect(linkElement).toBeInTheDocument();
 });

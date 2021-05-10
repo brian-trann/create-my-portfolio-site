@@ -1,0 +1,192 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-main-9"
+  >
+    <div
+      class="MuiContainer-root MuiContainer-maxWidthMd"
+    >
+      <div
+        class="makeStyles-profilePicture-15"
+      >
+        <img
+          alt="profile image"
+          src="genericUser.svg"
+          width="300px"
+        />
+      </div>
+      <h1
+        class="MuiTypography-root MuiTypography-h2 MuiTypography-colorTextPrimary MuiTypography-gutterBottom MuiTypography-alignLeft"
+      >
+        Hi, I'm John, a Software Developer from California
+      </h1>
+    </div>
+  </div>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthMd"
+  >
+    <h6
+      class="MuiTypography-root makeStyles-mainBlurb-16 MuiTypography-subtitle1 MuiTypography-colorTextSecondary MuiTypography-gutterBottom MuiTypography-alignCenter"
+    >
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+    </h6>
+    <hr
+      class="MuiDivider-root"
+    />
+  </div>
+  <div
+    class="MuiContainer-root makeStyles-cardGrid-11 MuiContainer-maxWidthMd"
+  >
+    <div
+      class="makeStyles-cardsTitle-10"
+    >
+      <h3
+        class="MuiTypography-root MuiTypography-h5 MuiTypography-colorTextSecondary MuiTypography-gutterBottom MuiTypography-alignCenter"
+      >
+        Selected Work
+      </h3>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-card-12 MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-cardMedia-13"
+            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
+            title="project0 thumbnail"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-cardContent-14"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              project0
+            </h2>
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Go
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-card-12 MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-cardMedia-13"
+            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
+            title="project1 thumbnail"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-cardContent-14"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              project1
+            </h2>
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Go
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-md-4"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root makeStyles-card-12 MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <div
+            class="MuiCardMedia-root makeStyles-cardMedia-13"
+            style="background-image: url(https://github.githubassets.com/images/modules/site/home/repo-browser.png);"
+            title="project2 thumbnail"
+          />
+          <div
+            class="MuiCardContent-root makeStyles-cardContent-14"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              project2
+            </h2>
+            <p
+              class="MuiTypography-root MuiTypography-body2"
+            >
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.
+            </p>
+          </div>
+          <div
+            class="MuiCardActions-root MuiCardActions-spacing"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-textSizeSmall MuiButton-sizeSmall"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Go
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
