@@ -30,6 +30,7 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
 * `main`
   * contents of this object will help populate the Main component.
   * `profileImage.url` : Static profile image url
+    * Alternatively, if you want to include an image in the React App, you can replace `sampleImg.jpg` with your own image.
 * `work`
   * `categoryName` : This value will be used to show your works on the Main component
   * `projects` : This array of objects is where you can add projects, and the Main component will iterate on this array. **Note**: Keep the object shape consistent in order to keep rendering consistent.
@@ -40,6 +41,9 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
   
 * `other`
   * I added this other section to keep information that I might want to use in the app
+
+### Images
+If you do not want to use static links for your images, you can manually import images, similar to `sampleImg.jpg` in the Main component.
 
 ```json
 {

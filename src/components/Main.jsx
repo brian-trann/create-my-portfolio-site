@@ -7,7 +7,7 @@ import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Container from '@material-ui/core/Container';
 import Divider from '@material-ui/core/Divider';
-import genericUser from '../genericUser.svg';
+import sampleImg from '../sampleImg.jpg';
 import Grid from '@material-ui/core/Grid';
 import CardActions from '@material-ui/core/CardActions';
 import Button from '@material-ui/core/Button';
@@ -54,7 +54,7 @@ const Main = () => {
 					<div className={classes.profilePicture}>
 						<img
 							width='300px'
-							src={main.profileImage.url || genericUser}
+							src={main.profileImage.url || sampleImg}
 							alt={main.profileImage.altText}
 						/>
 					</div>
