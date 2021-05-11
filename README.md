@@ -34,6 +34,7 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
 * `work`
   * `categoryName` : This value will be used to show your works on the Main component
   * `projects` : This array of objects is where you can add projects, and the Main component will iterate on this array. **Note**: Keep the object shape consistent in order to keep rendering consistent.
+  * `buttonNames` : Primary and secondary button names used for "Selected Work card buttons" 
 * `about`
   * `categoryName` : This value will be used to show your works on the About component
   * `skills.items`, `workExperience.work`, `education.items` 

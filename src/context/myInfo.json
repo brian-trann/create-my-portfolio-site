@@ -42,7 +42,8 @@
             {
                 "projectName": "project0",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "url":"https://github.com/",
+                "githubUrl":"https://github.com/",
+                "projectUrl":"https://vercel.com/",
                 "image": {
                     "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
                     "altText": "project0 thumbnail"
@@ -51,7 +52,8 @@
             {
                 "projectName": "project1",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "url":"https://github.com/",
+                "githubUrl":"https://github.com/",
+                "projectUrl":"https://vercel.com/",
                 "image": {
                     "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
                     "altText": "project1 thumbnail"
@@ -60,14 +62,18 @@
             {
                 "projectName": "project2",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sapien tortor, ornare nec leo nec, convallis pulvinar tortor. Ut lorem sem, tempus eu cursus eu, pulvinar sit amet neque.",
-                "url":"https://github.com/",
+                "githubUrl":"https://github.com/",
+                "projectUrl":"https://vercel.com/",
                 "image": {
                     "url": "https://github.githubassets.com/images/modules/site/home/repo-browser.png",
                     "altText": "project2 thumbnail"
                 }
             }
         ],
-        "buttonName":"Go"
+        "buttonNames":{
+            "primary":"Github",
+            "secondary":"Site"
+        }
     },
     "about": {
         "categoryName":"About",

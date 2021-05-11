@@ -121,9 +121,16 @@ const Main = () => {
 									<Button
 										size='small'
 										color='primary'
-										onClick={() => window.open(w.url)}
+										onClick={() => window.open(w.githubUrl)}
 									>
-										{work.buttonName}
+										{work.buttonNames.primary}
+									</Button>
+									<Button
+										size='small'
+										color='primary'
+										onClick={() => window.open(w.projectUrl)}
+									>
+										{work.buttonNames.secondary}
 									</Button>
 								</CardActions>
 							</Card>
