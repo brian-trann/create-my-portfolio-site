@@ -116,7 +116,10 @@ If you do not want to use static links for your images, you can manually import 
                 }
             }
         ],
-        "buttonName":"Go"
+        "buttonNames":{
+            "primary":"Github",
+            "secondary":"Site"
+        }
     },
     "about": {
         "categoryName":"About",
