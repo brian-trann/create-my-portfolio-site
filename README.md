@@ -11,7 +11,7 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
 
 ### Getting started
 
-1. Fork or clone this project. 
+1. Fork and then clone this project. 
 2. Install dependencies using `npm install`
 3. Fill out `/context/myInfo.json`
 4. *Optional and recommended*
@@ -43,7 +43,7 @@ This app uses the `useContext` hook to populate the app. Fill out your informati
   * I added this other section to keep information that I might want to use in the app
 
 ### Images
-If you do not want to use static links for your images, you can manually import images, similar to `sampleImg.jpg` in the Main component.
+If you do not want to use static links for your images, you can manually import images, similar to `sampleImg.jpg` in the Main component. It's up to you on how you want to handle images. 
 
 ```json
 {
